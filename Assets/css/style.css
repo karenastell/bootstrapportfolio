@@ -1,0 +1,24 @@
+
+* {
+    box-sizing: border-box;
+}
+
+.navbar {
+    background-color: lightcyan;
+}
+
+.navbar-brand {
+    color: black;
+}
+
+.nav-item {
+    color: black;
+}
+
+body {
+    background-color: lightblue;
+}
+
+.card {
+    background-color: lightyellow;
+}
