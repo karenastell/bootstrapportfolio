@@ -22,3 +22,7 @@ body {
 .card {
     background-color: lightyellow;
 }
+
+body {
+    font-family: 'Maven Pro', sans-serif;
+}
