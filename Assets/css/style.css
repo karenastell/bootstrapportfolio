@@ -17,12 +17,28 @@
 
 body {
     background-color: lightblue;
+    font-family: 'Maven Pro', sans-serif;
+    
+    }
+main {
+    border: 2px solid lightcyan;
+    background-color: lightyellow;
 }
 
 .card {
     background-color: lightyellow;
 }
 
-body {
-    font-family: 'Maven Pro', sans-serif;
+.margin {
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+footer {
+    background-color: lightgrey;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
 }
