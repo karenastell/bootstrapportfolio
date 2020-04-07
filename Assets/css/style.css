@@ -42,3 +42,8 @@ footer {
     width: 100%;
     text-align: center;
 }
+
+.portfolio-pics {
+    height: 200px;
+    width: 200px;
+} 
