@@ -29,9 +29,18 @@ main {
     background-color: lightyellow;
 }
 
+.card-img {
+margin-top: 50%;
+}
+
 .margin {
     margin-top: 30px;
     margin-bottom: 30px;
+}
+
+.larger-margin {
+    margin-top: 30px;
+    margin-bottom: 60px;
 }
 
 footer {
@@ -47,3 +56,13 @@ footer {
     height: 200px;
     width: 200px;
 } 
+
+.border-under {
+    border-bottom: 3px solid grey;
+}
+
+.centerimg {
+    text-align: center;
+    align-items: center;
+}
+
