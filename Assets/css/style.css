@@ -25,12 +25,10 @@ main {
     background-color: lightyellow;
 }
 
-.card {
-    background-color: lightyellow;
-}
 
-.card-img {
-margin-top: 50%;
+.about-img {
+width: 150px;
+height: 150px;
 }
 
 .margin {
