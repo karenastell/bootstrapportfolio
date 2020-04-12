@@ -53,25 +53,33 @@ footer {
 .portfolio-pics {
     height: 200px;
     width: 200px;
+    
 } 
+
+.row {
+    margin: 0px 30px 20px 30px;
+    padding: 0px 60px;
+}
+
+.relative {
+    position: relative;
+}
 
 .border-under {
     border-bottom: 3px solid grey;
-    margin-bottom: 20px;
 }
 
-.centerimg {
+h4 {
     text-align: center;
-    align-items: center;
 }
+
 
 .label {
-    position: relative;
-    top: 185px;
-    left: 153px;
-    height: 40px;
+    position: absolute;
+    top: 65%;
     width: 200px;
     padding: 5px;
     background-color: lightcyan;
     color: black;
 }
+
