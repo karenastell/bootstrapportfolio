@@ -10,6 +10,10 @@
   padding: 0px;
 }
 
+.portfolio-contact {
+    padding-top: 15px;
+}
+
 .navbar-brand {
   color: black;
 }
@@ -53,9 +57,12 @@ body {
   margin-bottom: 50px;
 }
 
-.pdf-img {
+.pdf {
+    margin: 0px 40px;
+}
+
+.thumbnail-img {
   height: 40px;
-  margin: 0px 40px;
 }
 
 .resume-element {
