@@ -1,112 +1,120 @@
-
 * {
-    box-sizing: border-box;
+  box-sizing: border-box;
 }
 
 .navbar {
-    background-color: lightcyan;
+  background-color: lightcyan;
+  padding: 0px;
 }
 
 .navbar-brand {
-    color: black;
+  color: black;
 }
 
 .nav-item {
-    color: black;
+  color: black;
+
+}
+
+.nav-align {
+  margin: 0;
+  width: 100%;
+  padding: 0 10px
 }
 
 body {
-    background-color: lightblue;
-    font-family: 'Maven Pro', sans-serif;
-    
-    }
-
-main {
-    border: 2px solid lightcyan;
-    background-color: lightyellow;
-    margin: 30px;
+  background-color: lightblue;
+  font-family: "Maven Pro", sans-serif;
 }
 
+main {
+  border: 2px solid lightcyan;
+  background-color: lightyellow;
+  margin: 30px;
+}
 
 .about-img {
-width: 150px;
-height: 150px;
+  width: 150px;
+  height: 150px;
 }
 
 .margin {
-    margin-top: 30px;
-    margin-bottom: 50px;
+  margin-top: 30px;
+  margin-bottom: 50px;
 }
 
 .larger-margin {
-    margin-top: 30px;
-    margin-bottom: 60px;
+  margin-top: 30px;
+  margin-bottom: 60px;
 }
 
 .index-header-margin {
-    margin-top: 30px;
+  margin-top: 30px;
 }
 
 .pdf-img {
-    height: 40px;
-    margin: 0px 10px;
+  height: 40px;
+  margin: 0px 40px;
 }
 
 .resume-element {
-    text-align: right;
-    margin: 0;
+  text-align: right;
+  margin: 0;
+  font-size: 12px;
+}
+
+.footer-name-info {
+  margin: 0px;
+  font-size 16px;
 }
 
 .footer-info {
-    margin: 0px;
+  margin: 0px;
+  font-size: 12px;
 }
 
 .foot {
-    position: fixed;
-    left: 0;
-    bottom: 0;
-    width: 100%;
-    background-color: lightcyan;
-    height: 75px;
-    color: black;
-    font-size: 16px;
-    text-align: center;
-    margin-top: 30px;
-   
-  }
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: lightcyan;
+  height: 75px;
+  color: black;
+  font-size: 16px;
+  text-align: center;
+  margin-top: 30px;
+  padding-top: 10px;
+}
 
 .portfolio-pics {
-    height: 200px;
-    width: 200px;
-    border: 1px solid black;
-    
-} 
+  height: 200px;
+  width: 200px;
+  border: 1px solid black;
+}
 
 .margin-w-padding {
-    margin: 0px 30px 20px 30px;
-    padding: 0px 60px;
+  margin: 0px 30px 20px 30px;
+  padding: 0px 60px;
 }
 
 .relative {
-    position: relative;
+  position: relative;
 }
 
 .border-under {
-    border-bottom: 3px solid grey;
+  border-bottom: 3px solid grey;
 }
 
 h4 {
-    text-align: center;
+  text-align: center;
 }
-
 
 .label {
-    position: absolute;
-    top: 65%;
-    width: 200px;
-    padding: 5px;
-    background-color: lightcyan;
-    color: black;
+  position: absolute;
+  top: 65%;
+  width: 200px;
+  padding: 5px;
+  background-color: lightcyan;
+  color: black;
 }
-
-
