@@ -118,14 +118,25 @@ h4 {
 
 .label {
   position: absolute;
-  top: 65%;
+  top: 60%;
   width: 400px;
-  /* width: 383px; */
   padding: 5px;
   background-color: #b3baaa;
   border: 1px solid #b3baaa;
   font-size: 20px;
   color: black;
+  text-align: center;
 }
 
+.label-text {
+    font-size: 14px;
+}
 
+.label-margin {
+    margin-bottom: 2px;
+    color: black;
+}
+
+.links {
+    padding-right: 40px;
+}
