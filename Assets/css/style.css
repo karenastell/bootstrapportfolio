@@ -20,9 +20,11 @@ body {
     font-family: 'Maven Pro', sans-serif;
     
     }
+
 main {
     border: 2px solid lightcyan;
     background-color: lightyellow;
+    margin: 30px;
 }
 
 
@@ -41,18 +43,38 @@ height: 150px;
     margin-bottom: 60px;
 }
 
-footer {
-    background-color: lightcyan;
-    position: fixed;
-    left: 0;
-    bottom: 0;
-    width: 100%;
-    text-align: center;
+.index-header-margin {
+    margin-top: 30px;
+}
+
+.pdf-img {
+    height: 40px;
+    margin: 0px 10px;
+}
+
+.resume-element {
+    text-align: right;
+    margin: 0;
 }
 
 .footer-info {
     margin: 0px;
 }
+
+.foot {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: lightcyan;
+    height: 75px;
+    color: black;
+    font-size: 16px;
+    text-align: center;
+    border-top: 2px solid black;
+   margin-top: 30px;
+   
+  }
 
 .portfolio-pics {
     height: 200px;
@@ -87,4 +109,5 @@ h4 {
     background-color: lightcyan;
     color: black;
 }
+
 
