@@ -3,8 +3,9 @@
 }
 
 .navbar {
-  background-color: lightcyan;
+  background-color: #CED2C3;
   padding: 0px;
+  border-bottom: 1px solid black;
 }
 
 .navbar-brand {
@@ -23,13 +24,13 @@
 }
 
 body {
-  background-color: lightblue;
+  background-image: url(../Images/background.jpg);
   font-family: "Maven Pro", sans-serif;
 }
 
 main {
-  border: 2px solid lightcyan;
-  background-color: lightyellow;
+  border: 2px solid #B3BAAA;
+  background-color: #D0D7C7;
   margin: 30px;
 }
 
@@ -78,13 +79,14 @@ main {
   left: 0;
   bottom: 0;
   width: 100%;
-  background-color: lightcyan;
+  background-color: #CED2C3;
   height: 75px;
   color: black;
   font-size: 16px;
   text-align: center;
   margin-top: 30px;
   padding-top: 10px;
+  border-top: 1px solid black;
 }
 
 .portfolio-pics {
